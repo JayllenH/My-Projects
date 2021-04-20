@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/bigtext.spritefont</File>
+    <File>C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/blackhole.png</File>
+    <File>C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/blackhole1.png</File>
+    <File>C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/earth.jpg</File>
+    <File>C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/space.jpeg</File>
+    <File>C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/star.png</File>
+    <File>C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/Verdana14.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>kok.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

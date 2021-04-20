@@ -1,0 +1,11 @@
+Jay'llen Hathman
+2/28/2021
+Documentation
+
+My additional feature is the inclusion of a bonus collectible. 
+These collectibles inherit from the Collectible class into the class gameObject.
+These bonus collectible are NOT included as part of the required collectible to move to another level.
+The first special collectible is an extra point collectible: collecting this grants the user an extra 5 points.
+Every 5 Levels the bonus collectible shows up!
+These bonus collectibles appear different than the “regular” collectibles. 
+The bonus is the planet earth !!

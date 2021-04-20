@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/bigtext.spritefont","C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/bin/DesktopGL/Content/bigtext.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70690,0.7381248
+"C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/blackhole.png","C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/bin/DesktopGL/Content/kok.xnb","TextureProcessor","Texture2DContent",7413,1000085,0.2890913
+"C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/blackhole1.png","C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/bin/DesktopGL/Content/blackhole1.xnb","TextureProcessor","Texture2DContent",960,147537,0.0117633
+"C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/earth.jpg","C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/bin/DesktopGL/Content/earth.xnb","TextureProcessor","Texture2DContent",6620,202585,0.27621
+"C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/space.jpeg","C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/bin/DesktopGL/Content/space.xnb","TextureProcessor","Texture2DContent",11165,666085,0.0696024
+"C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/star.png","C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/bin/DesktopGL/Content/star.xnb","TextureProcessor","Texture2DContent",3438,360085,0.0400511
+"C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/Verdana14.spritefont","C:/Users/there/OneDrive/Desktop/ime106/Hw3/Content/bin/DesktopGL/Content/Verdana14.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.393138

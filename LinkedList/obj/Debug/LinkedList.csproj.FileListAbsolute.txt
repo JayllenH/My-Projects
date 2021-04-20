@@ -1,0 +1,7 @@
+C:\Users\there\OneDrive\Desktop\ime106\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\there\OneDrive\Desktop\ime106\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\there\OneDrive\Desktop\ime106\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\there\OneDrive\Desktop\ime106\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+C:\Users\there\OneDrive\Desktop\ime106\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\there\OneDrive\Desktop\ime106\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\there\OneDrive\Desktop\ime106\LinkedList\obj\Debug\LinkedList.pdb

@@ -1,0 +1,7 @@
+C:\Users\there\OneDrive\Desktop\ime106\PEs\InterfacesPE\bin\Debug\InterfacesPE.exe.config
+C:\Users\there\OneDrive\Desktop\ime106\PEs\InterfacesPE\bin\Debug\InterfacesPE.exe
+C:\Users\there\OneDrive\Desktop\ime106\PEs\InterfacesPE\bin\Debug\InterfacesPE.pdb
+C:\Users\there\OneDrive\Desktop\ime106\PEs\InterfacesPE\obj\Debug\InterfacesPE.csprojAssemblyReference.cache
+C:\Users\there\OneDrive\Desktop\ime106\PEs\InterfacesPE\obj\Debug\InterfacesPE.csproj.CoreCompileInputs.cache
+C:\Users\there\OneDrive\Desktop\ime106\PEs\InterfacesPE\obj\Debug\InterfacesPE.exe
+C:\Users\there\OneDrive\Desktop\ime106\PEs\InterfacesPE\obj\Debug\InterfacesPE.pdb

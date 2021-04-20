@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0g2saws2LaZVRXFZxWel/+gKEhThXlOESALuxib4lWstQj1w6ViKU1Ncv5WuLBBb8/HvEsvXIEWzFBt5/wz2GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\there\\OneDrive\\Desktop\\ime106\\PEs\\Dynamic Tree\\Dynamic Tree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\there\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\there\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

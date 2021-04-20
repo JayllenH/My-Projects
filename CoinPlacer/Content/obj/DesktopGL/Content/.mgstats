@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/there/OneDrive/Desktop/ime106/Exams/Exam1Practical/Content/coin.png","C:/Users/there/OneDrive/Desktop/ime106/Exams/Exam1Practical/Content/bin/DesktopGL/Content/coin.xnb","TextureProcessor","Texture2DContent",27455,30805,0.5101124
+"C:/Users/there/OneDrive/Desktop/ime106/Exams/Exam1Practical/Content/verdana14.spritefont","C:/Users/there/OneDrive/Desktop/ime106/Exams/Exam1Practical/Content/bin/DesktopGL/Content/arial.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37922,0.7177377

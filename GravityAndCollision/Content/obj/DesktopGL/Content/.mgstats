@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/there/OneDrive/Desktop/ime106/PEs/GravityAndCollisionPE/Content/mario.png","C:/Users/there/OneDrive/Desktop/ime106/PEs/GravityAndCollisionPE/Content/bin/DesktopGL/Content/mario.xnb","TextureProcessor","Texture2DContent",17482,5085,0.466398
+"C:/Users/there/OneDrive/Desktop/ime106/PEs/GravityAndCollisionPE/Content/mario2.png","C:/Users/there/OneDrive/Desktop/ime106/PEs/GravityAndCollisionPE/Content/bin/DesktopGL/Content/mario2.xnb","TextureProcessor","Texture2DContent",2674,5085,0.2954479
+"C:/Users/there/OneDrive/Desktop/ime106/PEs/GravityAndCollisionPE/Content/pixel.png","C:/Users/there/OneDrive/Desktop/ime106/PEs/GravityAndCollisionPE/Content/bin/DesktopGL/Content/pixel.xnb","TextureProcessor","Texture2DContent",125,485,0.0256691

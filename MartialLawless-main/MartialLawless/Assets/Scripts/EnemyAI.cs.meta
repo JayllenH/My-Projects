@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e0be50f5e0f9e10409e79def334c905a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerTransform: {instanceID: 0}
+  - upSprite: {instanceID: 0}
+  - downSprite: {instanceID: 0}
+  - leftSprite: {instanceID: 0}
+  - rightSprite: {instanceID: 0}
+  - punch: {instanceID: 0}
+  - kick: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - gruntSound: {fileID: 8300000, guid: dbf2068ec855030458cd4736832bec70, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
